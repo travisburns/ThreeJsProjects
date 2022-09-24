@@ -22,6 +22,6 @@ While learning Three.js, I wanted to really understand simple archetecture, ligh
 [hauntedhouse.webm](https://user-images.githubusercontent.com/41456635/192083779-537d3fd5-915d-4def-aac6-64f9410b9502.webm)
 
 
-*Project Link
+# Project Link
 
 https://travis3jhouse.netlify.app/
